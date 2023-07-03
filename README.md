@@ -1,4 +1,4 @@
 # First project README
 
-## With this project I just edited the source code where it neede it, and cleaned it up some.
-
+## With this project I took the source code and polished it up.
+Added 
