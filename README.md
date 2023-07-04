@@ -1,5 +1,15 @@
-# First project README
+# Horiseon website update
 
-With this project I took the source code and polished it up.
-Added code where needed, deleted when necessary and made it more readable by adding 
-semantic HTML. I also fixed an issue with the header where one of the links wasn't working.
+## Description
+This project entailed an update of HTML semantics to make the code neater and easier to read.
+It was also given better accesability features.
+
+## Usage
+This code can be used to show how to clean up the original code without changing the website itself.
+
+## Credits
+Original code: https://github.com/coding-boot-camp/urban-octo-telegram.
+I used techniques learnt from the prework as well as the bootcamp classes.
+Thanks to Robert Kaiser for helping.
+
+## License
